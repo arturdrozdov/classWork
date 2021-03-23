@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    border: blue 1px solid;
+}
+
+h2{
+    color: greenyellow;
+    border: 1px green dashed;
+}
+
+h3{
+    color: indigo;
+    border: 1px red solid;
+    border-radius: 20px;
+}
+
+.hello{
+    width: 25%;
+}
